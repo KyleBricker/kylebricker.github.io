@@ -16,7 +16,6 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- hdgafkjshdgfkahgdf
 - List
 
 1. Numbered
