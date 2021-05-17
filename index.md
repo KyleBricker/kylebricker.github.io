@@ -37,7 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 ``
-
+```
 # Kyle Bricker
 Graduated San Jose State University with a B.A. in Mathematics, Magna Cum Laude
 Graduated Coding Dojo's full time three stack program with a black belt (the highest rank) in all three stacks
