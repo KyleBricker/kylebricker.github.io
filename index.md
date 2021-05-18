@@ -1,5 +1,5 @@
 # Kyle Bricker
-https://www.linkedin.com/in/kylejbricker/
+[LinkedIn](https://www.linkedin.com/in/kylejbricker)
 
 Graduated San Jose State University with a B.A. in Mathematics, Magna Cum Laude.
 
