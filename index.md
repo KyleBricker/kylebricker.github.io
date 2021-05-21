@@ -9,7 +9,7 @@ Graduated Coding Dojo's full time three stack program with a black belt (the hig
 
 ### Favorite Pokemon
 This is a small website that allows a user to browse all pokemon, whose data is retrieved from the PokeAPI, sort them by type and region, and choose their favorites, which are saved to their user account.
-<p>a paragraph</p>
+<h1>a paragraph</h1>
 
 ![Image](images/pokemon1.png)
 ![Image](images/pokemon2.png)
