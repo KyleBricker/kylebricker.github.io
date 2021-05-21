@@ -1,6 +1,10 @@
 # Kyle Bricker
 [LinkedIn](https://www.linkedin.com/in/kylejbricker)
 
+<a href="/images/Kyle.Bricker.resume.pdf" download>
+  Download resume
+</a>
+
 Graduated San Jose State University with a B.A. in Mathematics, Magna Cum Laude.
 
 Graduated Coding Dojo's full time three stack program with a black belt (the highest rank) in all three stacks.
