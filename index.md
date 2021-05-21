@@ -11,7 +11,7 @@ Graduated Coding Dojo's full time three stack program with a black belt (the hig
 This is a small website that allows a user to browse all pokemon, whose data is retrieved from the PokeAPI, sort them by type and region, and choose their favorites, which are saved to their user account.
 
 <video width="320" height="240" controls>
-  <source src="images/FavoritePokemonDemo2" type="video/mov">
+  <source src="images/FavoritePokemonDemo2.mov" type="video/mov">
 Your browser does not support the video tag.
 </video>
 
